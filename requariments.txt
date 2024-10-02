@@ -1,0 +1,5 @@
+numpy
+tqdm
+python-csv
+matplotlib
+python-dotenv
